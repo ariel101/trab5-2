@@ -38,7 +38,7 @@ Cada entorno tiene secrets independientes para mayor seguridad.
 
 Se utilizó Trivy para detectar vulnerabilidades HIGH y CRITICAL antes del despliegue.
 
-[INSERTAR CAPTURA]
+[INSERTAR CAPTURA] 
 
 ---
 
